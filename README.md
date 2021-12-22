@@ -1,5 +1,5 @@
 <h3>Hi, I'm Angelin </h3>
-A junior front-end developer...
+A junior front-end developer... HTML | CSS | JS
 <br><br>
 📫 How to reach me: ... https://dan-angelin.com <br><br>
 
