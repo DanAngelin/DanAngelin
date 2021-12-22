@@ -3,7 +3,7 @@ A junior front-end developer... HTML | CSS | JS
 <br><br>
 📫 How to reach me: ... https://dan-angelin.com <br><br>
 
-[![Angelin's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanAngelin&show_icons=true&theme=radical)](https://github.com/DanAngelin/github-readme-stats)
+[![Angelin's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanAngelin&show_icons=true&count_private=true&theme=radical)](https://github.com/DanAngelin/github-readme-stats)
 
 <!--
 **DanAngelin/DanAngelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
