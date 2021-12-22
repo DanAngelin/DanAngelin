@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Angelin's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanAngelin)](https://github.com/DanAngelin/github-readme-stats)
 
 <!--
 **DanAngelin/DanAngelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
