@@ -1,4 +1,9 @@
-[![Angelin's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanAngelin)](https://github.com/DanAngelin/github-readme-stats)
+<h3>Hi, I'm Angelin </h3>
+A junior front-end developer...
+<br><br>
+📫 How to reach me: ... https://dan-angelin.com <br><br>
+
+[![Angelin's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanAngelin&show_icons=true&theme=radical)](https://github.com/DanAngelin/github-readme-stats)
 
 <!--
 **DanAngelin/DanAngelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
