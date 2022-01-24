@@ -4,6 +4,7 @@ A junior front-end developer... <p><img src="https://img.shields.io/badge/HTML5-
 📫 How to reach me: ... https://dan-angelin.com
 
 [![Angelin's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanAngelin&show_icons=true&count_private=true&theme=radical)](https://github.com/DanAngelin/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timcreative&layout=compact&theme=cobalt&hide_border=true" />
 
 <!--
 **DanAngelin/DanAngelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
