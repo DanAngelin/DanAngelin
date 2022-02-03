@@ -1,7 +1,7 @@
 ## Hi <img src="https://i.ibb.co/9hMQZcL/Hi.gif" width="29px">, I'm [Angelin!](https://dan-angelin.com) 
-A junior front-end developer... <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></p>
+<h3>A junior front-end developer...</h3> <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></p>
 <br>
-<div><img src="https://i.ibb.co/xYsfgBV/pika.gif" width="30px">How to reach me: ...</div>
+<h3>📫How to reach me: ...</h3>
 <a href="https://dan-angelin.com/"><img alt="Website" src="https://img.shields.io/badge/dan--angelin.com-black?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/angelindan/"><img alt="LinkedIn" src="https://img.shields.io/badge/angelindan-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:dan.angelin@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/dan.angelin@hotmail.com-B23121?style=flat-square&logo=gmail"></a>
