@@ -1,5 +1,5 @@
 ## Hi <img src="https://i.imgur.com/mNKBHRT.gif" width="30px" />, I'm [Angelin!](https://dan-angelin.com) 
-<h3>A junior front-end developer...</h3> 
+<h3>A self-taught Front-end Developer...</h3> 
 
 
 ![HTML](https://img.shields.io/badge/-HTML5-%232c3e50?style=for-the-badge&logo=html5)
