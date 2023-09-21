@@ -8,7 +8,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%232c3e50?style=for-the-badge&logo=javascript)
 ![React.js](https://img.shields.io/badge/-React.js-%232c3e50?style=for-the-badge&logo=react)
 ![PHP](https://img.shields.io/badge/-PHP-%232c3e50?style=for-the-badge&logo=php)
-![MySQL](https://img.shields.io/badge/-MySQL-%232c3e50?style=for-the-badge&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-%232c3e50?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%232c3e50?style=for-the-badge&logo=Bootstrap)
 ![Visual Studio](https://img.shields.io/badge/-Visual_Studio_Code-%232c3e50?style=for-the-badge&logo=visual%20studio%20code)
 ![PHP Storm](https://img.shields.io/badge/-PHP%20Storm-%232c3e50?style=for-the-badge&logo=phpstorm)
