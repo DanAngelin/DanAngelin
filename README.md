@@ -1,4 +1,5 @@
-## <div>Hi <img src="https://i.imgur.com/mNKBHRT.gif" width="25px" />, I'm [Angelin!](https://dan-angelin.com) </div>
+## Hi, I'm [Angelin!](https://dan-angelin.com)
+<img src="https://i.imgur.com/U6HWF6r.gif" height="150px" />
 <h3>A self-taught Front-end Developer...</h3> 
 
 
