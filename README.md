@@ -1,4 +1,4 @@
-## Hi <img src="https://i.imgur.com/mNKBHRT.gif" width="30px" />, I'm [Angelin!](https://dan-angelin.com) 
+## Hi <img src="https://i.imgur.com/mNKBHRT.gif" width="25px" />, I'm [Angelin!](https://dan-angelin.com) 
 <h3>A self-taught Front-end Developer...</h3> 
 
 
@@ -7,10 +7,11 @@
 ![Sass](https://img.shields.io/badge/Sass-%232c3e50?style=for-the-badge&logo=sass)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%232c3e50?style=for-the-badge&logo=javascript)
 ![React.js](https://img.shields.io/badge/-React.js-%232c3e50?style=for-the-badge&logo=react)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-%232c3e50?style=for-the-badge&logo=php)
+![MySQL](https://img.shields.io/badge/-MySQL-%232c3e50?style=for-the-badge&logo=mysql)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%232c3e50?style=for-the-badge&logo=Bootstrap)
 ![Visual Studio](https://img.shields.io/badge/-Visual_Studio_Code-%232c3e50?style=for-the-badge&logo=visual%20studio%20code)
+![PHP Storm](https://img.shields.io/badge/-PHP%20Storm-%232c3e50?style=for-the-badge&logo=phpstorm)
 
 ## Portfolio
 <a href="https://dan-angelin.com/"><img alt="Website" src="https://img.shields.io/badge/www.dan--angelin.com-%232C5263?style=for-the-badge&logo=google-chrome"></a>
